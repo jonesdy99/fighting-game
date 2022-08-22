@@ -1,5 +1,5 @@
 # JS Fighter
-<p>JS Fighter is a simple application built in JavaScript that demostrates simple JS concepts such as random value generation and user sounds. Users have the option to play as 2 characters that use "q & e' and "p & l" respectivly. Users are able to deal an attack and heal with these keys. </p>
+<p>JS Fighter is a simple application built in JavaScript that demostrates simple JS concepts such as random value generation and user sounds. Users have the option to play as 2 characters that use "q & e' and "p & l" respectively. Users are able to deal an attack and heal with these keys. </p>
 
 ## ScreenShot of Game: 
 ![Alt text](assets/images/ScreenShot.jpg)
